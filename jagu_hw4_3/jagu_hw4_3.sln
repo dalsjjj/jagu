@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "jagu_hw4_3", "jagu_hw4_3.vcxproj", "{134FDF3E-5592-4C4B-9FE8-94BB24F54240}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{134FDF3E-5592-4C4B-9FE8-94BB24F54240}.Debug|x64.ActiveCfg = Debug|x64
+		{134FDF3E-5592-4C4B-9FE8-94BB24F54240}.Debug|x64.Build.0 = Debug|x64
+		{134FDF3E-5592-4C4B-9FE8-94BB24F54240}.Debug|x86.ActiveCfg = Debug|Win32
+		{134FDF3E-5592-4C4B-9FE8-94BB24F54240}.Debug|x86.Build.0 = Debug|Win32
+		{134FDF3E-5592-4C4B-9FE8-94BB24F54240}.Release|x64.ActiveCfg = Release|x64
+		{134FDF3E-5592-4C4B-9FE8-94BB24F54240}.Release|x64.Build.0 = Release|x64
+		{134FDF3E-5592-4C4B-9FE8-94BB24F54240}.Release|x86.ActiveCfg = Release|Win32
+		{134FDF3E-5592-4C4B-9FE8-94BB24F54240}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A96270C7-6D57-4947-88FC-EF726C063C99}
+	EndGlobalSection
+EndGlobal
